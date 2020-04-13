@@ -25,7 +25,7 @@ if(android==true)
 else if (c==true) 
 {
 	browserName = "Window Request";
-	//window.location.replace("http://www.google.com/");
+	//window.location.replace("http://www.google.com/");  if comment remove then you go direct google
 }
 else if (apple==true) 
 {
